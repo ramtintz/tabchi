@@ -2,19 +2,19 @@
 <h1><p align="center">تبلیغ‌گر
 <h2><p align="center">سرعت 💠 دقت 💠 قدرت
 <div align="center">
-    <a href="https://telegram.me/Naji_MessengerRobot">
+    <a href="https://telegram.me/ramtintzbot">
         <img src="http://upir.ir/951/guest/Untitled-5.png" hspace="10" width="150">
     </a>
-    <a href="https://telegram.me/i_advansitor">
+    <a href="https://telegram.me/tabchisell">
         <img src="http://upir.ir/951/guest/Untitled-7.png" hspace="10" width="150">
     </a>
-    <a href="https://telegram.me/i_naji">
+    <a href="https://telegram.me/ramtintz">
         <img src="http://upir.ir/951/guest/Untitled-6.png" width="150">
     </a>
 </div>
 
 <h3><p dir="rtl">تبلیغ‌گر رباتی هوشمند, بسیار ساده و البته رایگان جهت امور تبلیغاتی در تلگرام است.<br>
-نوشته شده توسط <a href="https://telegram.me/i_naji">ناجی</a> برپایه اخرین نسخه <a href="https://valtman.name/telegram-cli">تلگرام</a>.
+نوشته شده توسط <a href="https://telegram.me/ramtintz">ناجی</a> برپایه اخرین نسخه <a href="https://valtman.name/telegram-cli">تلگرام</a>.
 <br>
 <h3 align="right"> <strong> نصب و راه‌اندازی</strong> 🚀
 </h3>
