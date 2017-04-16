@@ -22,7 +22,7 @@
 <h4 dir="rtl">ابتدا سورس <em>ربات تبلیغ‌گر</em> را کپی کرده و پیش‌زمینه‌ها را نصب کنید.</h4>
 <h6>(موارد زیر را در ترمینال وارد کنید)</h6>
 <pre>
-<span>git clone https://github.com/i-naji/tabchi.git -b persian</span>
+<span>git clone https://github.com/ramtintz/tabchi.git -b persian</span>
 <span>cd tabchi</span>
 <span>chmod +x bot</span>
 <span>./bot install</span>
@@ -268,7 +268,7 @@
   </tr>
   <tr>
     <td colspan="2">همگام سازی با تبچی</td>
-    <td align="center">به <a href="https://telegram.me/i_advertiser/7">آموزش</a> موجود در کانال سر بزنید..</td>
+    <td align="center">به <a href="">آموزش</a> موجود در کانال سر بزنید..</td>
   </tr>
 </table>
 <h6 dir="rtl">اساس کار تبلیغ‌گر تشخیص لینک و عضویت در هر گروه‌ها و پیروی از دستورات تعیین شده است.</h6>
@@ -318,7 +318,7 @@
 <br>
 <h2 dir="rtl">پشتیبانی
 <hr>
-<h4 dir="rtl">پذیرای انتقادات وپیشنهاداتان هستیم ♚ NajiTeam ♚ <a href="https://telegram.me/i_naji"> @i_naji </a> <a href="https://telegram.me/Naji_MessengerRobot"> @Naji_MessengerRobot</a>
+<h4 dir="rtl">پذیرای انتقادات وپیشنهاداتان هستیم ♚ TabChiSell ♚ <a href="https://telegram.me/ramtintz"> @ramtintz </a> <a href="https://telegram.me/ramtintzbot"> @ramtintzbot</a>
 <br>راهنمای استفاده از تبلیغ‌گر بسیار ساده و قابل درک است<br>فیلم آموزشی نصب و اطلاع از آخرین اخبار تبلیغ‌گر در کانال ما 
-<a href="https://telegram.me/i_advertiser"> @i_advertiser</a>
+<a href="https://telegram.me/tabchisell"> @tabchisell</a>
 </h4>
