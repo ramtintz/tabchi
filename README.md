@@ -14,7 +14,7 @@
 </div>
 
 <h3><p dir="rtl">تبلیغ‌گر رباتی هوشمند, بسیار ساده و البته حرفه ای جهت امور تبلیغاتی در تلگرام است.<br>
-نوشته شده توسط <a href="https://telegram.me/tabchisell">تبچی سِل</a> برپایه اخرین نسخه <a href="https://valtman.name/telegram-cli">تلگرام</a>.
+نوشته شده توسط <a href="https://github.com/i-Naji/tabchi/tree/persian">ناجی</a> برپایه اخرین نسخه <a href="https://valtman.name/telegram-cli">تلگرام</a>.
 <br>
 <h3 align="right"> <strong> نصب و راه‌اندازی</strong> 🚀
 </h3>
